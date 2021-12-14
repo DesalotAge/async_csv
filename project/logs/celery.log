@@ -1,0 +1,41 @@
+[2021-12-14 09:42:25,628: INFO/MainProcess] Connected to redis://redis:6379/0
+[2021-12-14 09:42:25,640: INFO/MainProcess] mingle: searching for neighbors
+[2021-12-14 09:42:26,680: INFO/MainProcess] mingle: all alone
+[2021-12-14 09:42:26,718: WARNING/MainProcess] /usr/local/lib/python3.9/site-packages/celery/fixups/django.py:203: UserWarning: Using settings.DEBUG leads to a memory
+            leak, never use this setting in production environments!
+  warnings.warn('''Using settings.DEBUG leads to a memory
+
+[2021-12-14 09:42:26,718: INFO/MainProcess] celery@db07d76458ef ready.
+[2021-12-14 09:42:30,574: INFO/MainProcess] Events of group {task} enabled by remote.
+[2021-12-14 09:42:49,433: INFO/MainProcess] Task async_csv.tasks.sum_csv_file[f8eb8387-646c-4efc-8d7c-8f07fdb430bd] received
+[2021-12-14 09:42:49,443: INFO/ForkPoolWorker-7] Task async_csv.tasks.sum_csv_file[f8eb8387-646c-4efc-8d7c-8f07fdb430bd] succeeded in 0.007670008999411948s: 425.9622903334548
+[2021-12-14 09:42:51,867: INFO/MainProcess] Task async_csv.tasks.sum_csv_file[93525ea3-f858-4c4d-896a-d704365bf247] received
+[2021-12-14 09:42:51,876: INFO/ForkPoolWorker-7] Task async_csv.tasks.sum_csv_file[93525ea3-f858-4c4d-896a-d704365bf247] succeeded in 0.006856710999272764s: 425.9622903334548
+[2021-12-14 09:42:52,084: INFO/MainProcess] Task async_csv.tasks.sum_csv_file[75e83b22-cf39-4f9e-9d13-0303ed8e37ed] received
+[2021-12-14 09:42:52,098: INFO/ForkPoolWorker-7] Task async_csv.tasks.sum_csv_file[75e83b22-cf39-4f9e-9d13-0303ed8e37ed] succeeded in 0.010670707999452134s: 425.9622903334548
+[2021-12-14 09:42:52,289: INFO/MainProcess] Task async_csv.tasks.sum_csv_file[18d8a00f-d088-47b9-b185-09f55f1635d2] received
+[2021-12-14 09:42:52,306: INFO/ForkPoolWorker-7] Task async_csv.tasks.sum_csv_file[18d8a00f-d088-47b9-b185-09f55f1635d2] succeeded in 0.010946774998956244s: 425.9622903334548
+[2021-12-14 09:47:53,499: INFO/MainProcess] Connected to redis://redis:6379/0
+[2021-12-14 09:47:53,515: INFO/MainProcess] mingle: searching for neighbors
+[2021-12-14 09:47:54,539: INFO/MainProcess] mingle: all alone
+[2021-12-14 09:47:54,567: WARNING/MainProcess] /usr/local/lib/python3.9/site-packages/celery/fixups/django.py:203: UserWarning: Using settings.DEBUG leads to a memory
+            leak, never use this setting in production environments!
+  warnings.warn('''Using settings.DEBUG leads to a memory
+
+[2021-12-14 09:47:54,567: INFO/MainProcess] celery@76f0d66b4e42 ready.
+[2021-12-14 09:47:55,337: INFO/MainProcess] Task async_csv.tasks.sum_csv_file[6a55edb8-d690-4e68-824d-460234db6960] received
+[2021-12-14 09:47:55,341: INFO/MainProcess] Task async_csv.tasks.sum_csv_file[dbe1d78f-043d-4a2a-be2f-2904bbd8476f] received
+[2021-12-14 09:47:55,357: INFO/ForkPoolWorker-8] Task async_csv.tasks.sum_csv_file[dbe1d78f-043d-4a2a-be2f-2904bbd8476f] succeeded in 0.014225649001673446s: 425.9622903334548
+[2021-12-14 09:47:55,357: INFO/ForkPoolWorker-7] Task async_csv.tasks.sum_csv_file[6a55edb8-d690-4e68-824d-460234db6960] succeeded in 0.014190735000738641s: 425.9622903334548
+[2021-12-14 09:47:58,373: INFO/MainProcess] Events of group {task} enabled by remote.
+[2021-12-14 10:48:02,054: INFO/MainProcess] Connected to redis://redis:6379/0
+[2021-12-14 10:48:02,067: INFO/MainProcess] mingle: searching for neighbors
+[2021-12-14 10:48:03,096: INFO/MainProcess] mingle: all alone
+[2021-12-14 10:48:03,143: WARNING/MainProcess] /usr/local/lib/python3.9/site-packages/celery/fixups/django.py:203: UserWarning: Using settings.DEBUG leads to a memory
+            leak, never use this setting in production environments!
+  warnings.warn('''Using settings.DEBUG leads to a memory
+
+[2021-12-14 10:48:03,145: INFO/MainProcess] celery@c0dc6aa1742e ready.
+[2021-12-14 10:48:06,961: INFO/MainProcess] Events of group {task} enabled by remote.
+[2021-12-14 10:48:20,182: INFO/MainProcess] Task async_csv.tasks.sum_csv_file[afb96f22-1e73-4387-9399-cc28980937f5] received
+[2021-12-14 10:48:20,191: INFO/ForkPoolWorker-7] Task async_csv.tasks.sum_csv_file[afb96f22-1e73-4387-9399-cc28980937f5] succeeded in 0.0072815999992599245s: 425.9622903334548
